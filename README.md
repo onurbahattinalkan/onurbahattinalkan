@@ -7,7 +7,7 @@ My goal is to develop data-driven models and build scalable, engineering-oriente
 
 ## 🎓 Education
 - **B.Sc. in Computer Engineering** — Ankara University  
-- **GPA:** 3.7 / 4.00  
+- **GPA:** 3.74 / 4.00  
 - 3rd Year Student
 
 ---
