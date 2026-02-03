@@ -15,7 +15,8 @@ My goal is to develop data-driven models and build scalable, engineering-oriente
 ## 🧪 Projects
 - **Crystal Band Gap Prediction**  
   A machine learning–based project aimed at predicting the band gap values of materials using scientific crystal structure data.  
-  *(Repository will be added soon)*
+  🔗 GitHub deposu:
+  https://github.com/YZE-Crystal/bandgap-prediction
 
 - **Tesla Stock Market Analysis & Prediction**  
   A data science project involving data cleaning, exploratory data analysis, feature engineering, and predictive modeling on Tesla stock market data.  
