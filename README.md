@@ -7,8 +7,8 @@ with a focus on graph-based models and scientific data.
 
 ## 🎓 Education
 - **B.Sc. in Computer Engineering** — Ankara University  
-- **GPA:** 3.74 / 4.00  
-- 3rd Year Student
+- **GPA:** 3.79 / 4.00  
+- 4rd Year Student
 
 ---
 ## 📄 Publications
